@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fist project</string>
+    <string name="welcome_to_tic_tec_toe">Welcome To Tic Tec Toe</string>
+    <string name="OUR_MAIN_GRID">OUR MAIN GRID</string>
+</resources>
