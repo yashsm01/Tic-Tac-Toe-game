@@ -4,6 +4,10 @@ Tic Tac Toe  application with using android studio.
 ![tic](https://user-images.githubusercontent.com/64914825/82136966-0ac93780-9831-11ea-8d58-78016c04433e.jpg)
 
 
+![video_2020-05-17_11-46-51](https://user-images.githubusercontent.com/64914825/82137341-b758e880-9834-11ea-95d0-959488793384.gif)
+
+
+
 
 step 1:-
 copy this Xml file:- 
