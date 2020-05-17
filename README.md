@@ -1,6 +1,9 @@
 # Tic-Tac-Toe-game
 Tic Tac Toe  application with using android studio.
 
+![tic](https://user-images.githubusercontent.com/64914825/82136966-0ac93780-9831-11ea-8d58-78016c04433e.jpg)
+
+
 
 step 1:-
 copy this Xml file:- 
